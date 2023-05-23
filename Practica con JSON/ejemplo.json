@@ -1,0 +1,10 @@
+{
+    "nombre": "John Arbaiza",
+    "profesion": "Estudiante de ingenieria de sistemas informaticos",
+    "lenguajes":["c++","C#","Java","python","JavaScript"],
+    "direccion":{
+        "pais":"El Salvador",
+        "ciudad":"San Miguel",
+        "direccion_Complementaria":"Colonia la confianza, Calle arevalo, Pasaje BK P, Casa 429"
+    }
+}
